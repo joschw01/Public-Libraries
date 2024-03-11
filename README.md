@@ -1,5 +1,5 @@
 # Public Libraries
- A dive into 2021 Public Library Data
+ A dive into 2021 Public Library Data. Viewable at https://nbviewer.org/github/joschw01/Public-Libraries/blob/main/PubLib.ipynb 
 
 ## About
 This is a dive into data available about public libraries in the United States. I will be updating the files as I work through exploratory data analysis and beyond, so everything is likely to be a little rough. If you have comments, questions, or suggestions, please contact me at joe.schweiss@icloud.com
